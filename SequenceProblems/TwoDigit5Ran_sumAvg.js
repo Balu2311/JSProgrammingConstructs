@@ -4,7 +4,7 @@ let count=0;
 let sum=0;
 while(count<5)
 {
-    twoDigNum = Math.floor(Math.random() * 99) + 10;
+    twoDigNum = Math.floor(Math.random() * 90) + 10;
     console.log('Number = '+twoDigNum);
     //addinng random digits
     sum +=twoDigNum;
